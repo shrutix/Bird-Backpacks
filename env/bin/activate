@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/shrutijana/Documents/code cloud/birdBackpacksHackUMass/env"
+VIRTUAL_ENV="/Users/shrutijana/Documents/code cloud/birdBackpacksHackUMass/Bird-Backpacks/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
